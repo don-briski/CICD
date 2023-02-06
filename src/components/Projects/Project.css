@@ -1,0 +1,46 @@
+.project-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.project-items {
+    display: flex;
+    flex-direction: column;
+    background: var(---color-bg-variant);
+    padding: 1rem;
+    margin: 0.8rem;
+    border:  solid 0.5rem var(--color-light);
+    border-radius: 1rem;
+}
+
+.project-links {
+    justify-content: space-between;
+    display: inline-flex;
+    padding: 0.5rem;
+
+}
+
+.project-link {
+    border: solid 3px var(--color-white);
+    padding: 0.5rem;
+}
+
+.project-title {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
+    font-weight:bolder;
+    color: rgb(18, 180, 24);
+    
+}
+
+
+.project-items:hover {
+background: var(---color-light);
+background: var(--color-white);
+color: var(--color-bg);
+border-color: transparent;
+
+}
+
+

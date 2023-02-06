@@ -1,0 +1,26 @@
+footer {
+    padding: 2.5rem;
+    margin: 0px;
+    background: var(--color-bg-variant);
+    width: 100%;
+}
+
+.foot-content {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    gap: 2rem;
+    margin: 1.5rem;
+   
+
+}
+
+footer img {
+    width: 70px;
+    margin-left: 130px;
+}
+
+.sprout {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

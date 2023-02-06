@@ -1,0 +1,132 @@
+ <Carousel.Item className='slide-items'>
+                <ul>
+                    <li>
+                        Node.js <img src={meter95} alt='' className='list-item'/>
+                    </li>
+                    <li>
+                        Express js <img src={meter97} alt='' className='list-item'/>
+                    </li>
+                    <li>
+                        Typescript <img src={meter93} alt='' className='list-item'/>
+                    </li>
+                    <li>
+                        Javascript <img src={meter97} alt='' className='list-item'/>
+                    </li>
+                    <li>
+                        Swagger <img src={meter97} alt='' className='list-item'/>
+                    </li>
+                </ul>
+                    
+                  <Carousel.Caption>
+                      <h3>Backend Tools and methodologies</h3> 
+                  </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className='slide-items'>
+                <ul>
+                <div>
+                <li>
+                        React.js <img src={meter95} alt='' className='list-item'/>
+                    </li>
+                </div>
+
+                <div>
+                <li>
+                        Html 5 <img src={meter97} alt='' className='list-item'/>
+                    </li>
+                </div>
+
+                <div>
+                <li>
+                        CSS 3 <img src={meter93} alt='' className='list-item'/>
+                    </li>
+                </div>
+                    
+                    <div> 
+                    <li>
+                        Angular <img src={''} alt='' className='list-item'/>
+                    </li>
+                    </div>
+                   
+                </ul>
+                    
+                  <Carousel.Caption>
+                      <h3>Front-End Tools and methodologies</h3> 
+                  </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className='slide-items'>
+                <ul>
+                <div><li>
+                        Mongo Db <img src={meter95} alt='' className='list-item'/>
+                    </li>
+                </div>
+
+                    <div>
+                    <li>
+                        Postgress <img src={meter97} alt='' className='list-item'/>
+                    </li>
+                    </div>
+
+                    <div>
+                    <li>
+                        Sqlite3 <img src={meter95} alt='' className='list-item'/>
+                    </li>
+                    </div>
+                    
+                    <div>
+                    <li>
+                    Mysql <img src={meter93} alt='' className='list-item'/>
+                    </li>
+                    </div>
+                    
+                   <div>
+                   <li>
+                        ODM: Mongoose <img src={meter93} alt='' className='list-item'/>
+                    </li>
+                   </div>
+
+                   <div> <li>
+                        ORM: sequelize <img src={meter93} alt='' className='list-item'/>
+                    </li>
+                   </div>
+                    
+                   
+                </ul>
+                    
+                  <Carousel.Caption>
+                      <h3>Data Base Tools and methodologies</h3> 
+                  </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className='slide-items'>
+                <ul>
+                    <li>
+                        Git <img src={meter95} alt='' className='list-item'/>
+                    </li>
+                    <li>
+                        Git Hub <img src={meter97} alt='' className='list-item'/>
+                    </li>
+
+                </ul>
+                    
+                  <Carousel.Caption>
+                      <h3>Version Control Tools and methodologies</h3> 
+                  </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className='slide-items'>
+                <ul>
+                    <li>
+                        Jest <img src={meter95} alt='' className='list-item'/>
+                    </li>
+                    <li>
+                        Unit Testing <img src={meter97} alt='' className='list-item'/>
+                    </li>
+
+                </ul>
+                    
+                  <Carousel.Caption>
+                      <h3>Testing Tools and methodologies</h3> 
+                  </Carousel.Caption>
+                </Carousel.Item>

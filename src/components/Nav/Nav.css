@@ -1,0 +1,14 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 43rem;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-primary);
+    font-size: 1.5rem;
+    margin: 0 1rem;
+}
+
